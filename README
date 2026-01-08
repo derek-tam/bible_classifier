@@ -1,0 +1,1 @@
+C:\Users\cwdta>curl -X POST http://127.0.0.1:5000/submit_ticket -H "Content-Type: application/json" -d "{ \"ticket\": \"The app crashes whenever I try to upload a file.\" }"
